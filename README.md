@@ -8,7 +8,7 @@ In this project, I delved into the fascinating world of electric vehicles (EVs) 
 -Top 10 Leading EV Brands: Tesla, Ford, Audi, BMW, and Chevrolet lead the charge! ⚡🚙 <br>
 -State-Specific Analysis: Dive deeper by exploring specific states using our interactive map. 🗺️ <br>
 
-Let’s accelerate the transition to cleaner transportation! 🌎💡 Feel free to explore the full dashboard . 📈
+Let’s accelerate the transition to cleaner transportation! 🌎💡 Feel free to explore the full dashboard [here](https://github.com/aaryanarora04/Eclectic-Vehicles-Analysis-Dashboard/blob/main/Electronic%20Vehicles%20Analysis.pbix). 📈
 <br>
 
 👉 Have questions or want to collaborate? Let’s connect on LinkedIn! 🤝 [My Profile](https://www.linkedin.com/in/aaryan-arora04).
